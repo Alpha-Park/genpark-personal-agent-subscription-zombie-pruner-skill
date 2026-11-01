@@ -1,0 +1,10 @@
+{
+  "name": "genpark-personal-agent-subscription-zombie-pruner-skill",
+  "version": "1.0.0",
+  "description": "Personal Agent Subscription Zombie Pruner - Zero-dependency cost-per-use recurring expense auditor, dormant zombie subscription detector, and 5-year opportunity cost compound savings forecaster.",
+  "tools": [
+    "audit_subscription_utilization_and_cost_per_use",
+    "identify_zombie_subscriptions_and_cancellation_payoff",
+    "project_subscription_drag_and_compound_savings"
+  ]
+}
